@@ -39,10 +39,10 @@ Project: Python Application Automation for a Knowledge Base
 CompTIA Security+</br>
 CompTIA A+</br>
 AWS Cloud Practitioner</br>
-LetsDefend SOC Analyst</br>
 CompTIA Network+ (Expected 4/2025)</br>
 <hr>
 ✨ CERTIFICATES ✨</br>
+LetsDefend SOC Analyst</br>
 Intro to Splunk</br>
 Qualys Vulnerability Management </br>
 Google Cybersecurity Professional</br>
