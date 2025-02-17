@@ -1,4 +1,6 @@
 Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certifications and projects. My IT experience has fostered a passion for blue team cybersecurity operations, driving me to constantly improve and learn new skills and tools.
+<hr>
+
 
 
 
@@ -8,7 +10,7 @@ Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certificat
 <a href="https://www.youtube.com/@mosh-cyber" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+<hr>
 
 
 
@@ -30,16 +32,16 @@ Project: Creating and Manipulating a Database, Query Analysis
 
 Project: Python Application Automation for a Knowledge Base
 </br>Platforms and Technology Used: Python, Kali Linux
+<hr>
 
 
-
-✨ CERTIFICATIONS ✨</br>
+⚡CERTIFICATIONS ⚡</br>
 CompTIA Security+</br>
 CompTIA A+</br>
 AWS Cloud Practitioner</br>
 LetsDefend SOC Analyst</br>
 CompTIA Network+ (Expected 4/2025)</br>
-
+<hr>
 ✨ CERTIFICATES ✨</br>
 Intro to Splunk</br>
 Qualys Vulnerability Management </br>
