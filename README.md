@@ -1,9 +1,50 @@
+Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certifications and projects. My IT experience has fostered a passion for blue team cybersecurity operations, driving me to constantly improve and learn new skills and tools.
 
-I am an aspiring SOC analyst with a profound interest in technology and a dedication to solving complex problems.
 
-My journey in cybersecurity has led me to develop a passion for blue team work, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Skills
+<a href="https://www.linkedin.com/in/ivanmarshutka/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@mosh-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+
+
+
+
+🔒 Labs / Projects 🔒
+
+Project: Splunk Log Analysis and VirusTotal IP Reputation Python Automation </br>Platforms and Technology Used: Splunk SIEM, Python, VMware
+
+Project: Azure-hosted Sentinel SIEM Log Analysis, Configuration and KQL Querying</br>
+Platforms and Technology Used: Azure Sentinel SIEM, Azure Virtual Machines, Windows, KQL
+
+Project: Vulnerability Scanning and Windows Threat Mitigation </br>Platforms and Technology Used: Tenable Nessus, Windows Defender Firewall and Endpoint Protection</br>
+
+Project: Malware Analysis Lab 
+</br>Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, RemNux VM </br>
+
+Project: Creating and Manipulating a Database, Query Analysis 
+</br>Platforms and Technology Used: MySQL Workbench, SQL
+
+Project: Python Application Automation for a Knowledge Base
+</br>Platforms and Technology Used: Python, Kali Linux
+
+
+
+✨ CERTIFICATIONS ✨</br>
+CompTIA Security+</br>
+CompTIA A+</br>
+AWS Cloud Practitioner</br>
+LetsDefend SOC Analyst</br>
+CompTIA Network+ (Expected 4/2025)</br>
+
+✨ CERTIFICATES ✨</br>
+Intro to Splunk</br>
+Qualys Vulnerability Management </br>
+Google Cybersecurity Professional</br>
+Foundations of MITRE ATT&CK v13</br>
 <!--
 **ivanmarshutka/ivanmarshutka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
