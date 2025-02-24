@@ -10,6 +10,9 @@ Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certificat
 <a href="https://www.youtube.com/@mosh-cyber" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+<a href="https://medium.com/@marshutkaivan">
+    <img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>    
 <hr>
 
 
