@@ -19,25 +19,29 @@ Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certificat
 
 
 🔒 Labs / Projects 🔒
+[**Project: Splunk Log Analysis and VirusTotal IP Reputation Python Automation**](https://docs.google.com/presentation/d/1-NZ5fBngDk99QJw8sgRGX_I96pa-okTBsqX97JVIxAc/edit#slide=id.p)  
+**Platforms and Technology Used:** Splunk SIEM, Python, VMware
 
-Project: Splunk Log Analysis and VirusTotal IP Reputation Python Automation </br>Platforms and Technology Used: Splunk SIEM, Python, VMware
+Project: Splunk Log Analysis and VirusTotal IP Reputation Python Automation </br>
+Platforms and Technology Used: Splunk SIEM, Python, VMware
 
 Project: Azure-hosted Sentinel SIEM Log Analysis, Configuration and KQL Querying</br>
 Platforms and Technology Used: Azure Sentinel SIEM, Azure Virtual Machines, Windows, KQL
 
-Project: Vulnerability Scanning and Windows Threat Mitigation </br>Platforms and Technology Used: Tenable Nessus, Windows Defender Firewall and Endpoint Protection</br>
+Project: Vulnerability Scanning and Windows Threat Mitigation </br>
+Platforms and Technology Used: Tenable Nessus, Windows Defender Firewall and Endpoint Protection</br>
 
-Project: Malware Analysis Lab 
-</br>Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, RemNux VM </br>
+Project: Malware Analysis Lab</br> 
+Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, RemNux VM </br>
 
 Project: Elastic SIEM Setup and VM Telemetry Monitoring</br>
 Tools: Elastic SIEM, Elastic Agent, Kali Linux VM, VMware Hypervisor </br>
 
-Project: Creating and Manipulating a Database, Query Analysis 
-</br>Platforms and Technology Used: MySQL Workbench, SQL
+Project: Creating and Manipulating a Database, Query Analysis</br> 
+Platforms and Technology Used: MySQL Workbench, SQL
 
-Project: Python Application Automation for a Knowledge Base
-</br>Platforms and Technology Used: Python, Kali Linux
+Project: Python Application Automation for a Knowledge Base</br>
+Platforms and Technology Used: Python, Kali Linux</br>
 <hr>
 
 
