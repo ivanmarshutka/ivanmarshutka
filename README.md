@@ -27,6 +27,9 @@ Project: Vulnerability Scanning and Windows Threat Mitigation </br>Platforms and
 Project: Malware Analysis Lab 
 </br>Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, RemNux VM </br>
 
+Project: Elastic SIEM Setup and VM Telemetry Monitoring</br>
+Tools: Elastic SIEM, Elastic Agent, Kali Linux VM, VMware Hypervisor </br>
+
 Project: Creating and Manipulating a Database, Query Analysis 
 </br>Platforms and Technology Used: MySQL Workbench, SQL
 
