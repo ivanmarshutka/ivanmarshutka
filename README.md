@@ -22,7 +22,7 @@ Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certificat
 [**Project: Splunk Log Analysis and VirusTotal IP Reputation Python Automation**](https://docs.google.com/presentation/d/1-NZ5fBngDk99QJw8sgRGX_I96pa-okTBsqX97JVIxAc/edit#slide=id.p)  
 **Platforms and Technology Used:** Splunk SIEM, Python, VMware
 
-[**Project: Azure-hosted Sentinel SIEM Log Analysis, Configuration and KQL Querying**](https://github.com/ivanmarshutka/Azure_HoneyPot)</br>
+[**Project: Azure-hosted Honeypot Sentinel Log Analysis, Configuration and KQL Querying**](https://github.com/ivanmarshutka/Azure_HoneyPot)</br>
 Platforms and Technology Used: Azure Sentinel SIEM, Azure Virtual Machines, Windows, KQL
 
 [**Project: Vulnerability Scanning and Windows Threat Mitigation**](https://github.com/ivanmarshutka/Nessus-)</br>
