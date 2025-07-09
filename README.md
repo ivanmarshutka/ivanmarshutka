@@ -1,4 +1,4 @@
-Welcome! I'm Ivan, an IT and cybersecurity practitioner with multiple certifications and projects. My IT experience has fostered a passion for blue team cybersecurity operations, driving me to constantly improve and learn new skills and tools.
+Welcome! I'm Ivan, an IT Security analyst for a tribal college in Alaska with multiple industry recognized certifications and projects. My IT experience has fostered a passion for blue team cybersecurity operations, driving me to constantly improve and learn new skills and tools.
 <hr>
 
 
