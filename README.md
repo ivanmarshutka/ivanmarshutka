@@ -46,7 +46,7 @@ Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, 
 CompTIA Security+</br>
 CompTIA A+</br>
 AWS Cloud Practitioner</br>
-CompTIA Network+ (Expected 4/2025)</br>
+CompTIA Network+ (Expected 9/2025)</br>
 <hr>
 ✨ CERTIFICATES ✨</br>
 LetsDefend SOC Analyst</br>
