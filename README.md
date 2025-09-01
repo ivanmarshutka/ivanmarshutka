@@ -44,6 +44,7 @@ Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, 
 
 ⚡CERTIFICATIONS ⚡</br>
 CompTIA Security+</br>
+CompTIA Network+</br>
 CompTIA A+</br>
 AWS Cloud Practitioner</br>
 CompTIA Network+ (Expected 9/2025)</br>
