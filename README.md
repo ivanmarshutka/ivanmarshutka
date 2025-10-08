@@ -47,7 +47,8 @@ CompTIA Security+</br>
 CompTIA Network+</br>
 CompTIA A+</br>
 AWS Cloud Practitioner</br>
-CompTIA Network+ (Expected 9/2025)</br>
+ITIL</br>
+LPI</br>
 <hr>
 ✨ CERTIFICATES ✨</br>
 LetsDefend SOC Analyst</br>
