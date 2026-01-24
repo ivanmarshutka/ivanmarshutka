@@ -46,6 +46,7 @@ Platforms and Technology Used: Oracle VM VirtualBox, Flare VM, Any.Run Sandbox, 
 CompTIA Security+</br>
 CompTIA Network+</br>
 CompTIA A+</br>
+Microsoft SC-900 </br>
 AWS Cloud Practitioner</br>
 ITIL</br>
 LPI</br>
