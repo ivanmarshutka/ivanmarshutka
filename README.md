@@ -1,4 +1,7 @@
-Welcome! I'm Ivan, an IT Security analyst for a tribal college in Alaska with multiple industry recognized certifications and projects. My IT experience has fostered a passion for blue team cybersecurity operations, driving me to constantly improve and learn new skills and tools.
+Welcome! I’m an IT Security Specialist for a tribal college in Alaska with two years of work experience, a bachelor’s degree in information technology, and multiple industry-recognized certifications and projects.
+I work with cybersecurity frameworks like GLBA, NIST 800-171, and PCI DSS. I operate  Cisco, Microsoft, and other enterprise security tools.  My role spans a broad range of security functions, including  IAM, incident response, and risk and vulnerability management.
+I’m committed to continuous learning and improvement, with my career progressing toward cloud and cybersecurity engineering, where I aim to automate, optimize, and scale secure technical solutions.
+
 <hr>
 
 
