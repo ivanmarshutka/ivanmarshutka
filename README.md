@@ -7,7 +7,7 @@ I’m committed to continuous learning and improvement, with my career progressi
 
 
 <a href="https://moshcyber.in/">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ivanmarshutka/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
