@@ -24,6 +24,9 @@ I’m committed to continuous learning and improvement, with my career progressi
 
 
 🔒 Labs / Projects 🔒</br>
+[**AI-Driven Azure Infrastructure Agent**]([https://medium.com/@marshutkaivan/iam-federation-lab-okta-and-keycloak-saml-2-0-sso-b9825ec32599](https://github.com/ivanmarshutka/ai-infra-agent))</br>
+**Platforms and Technology Used:** Entra ID, Key Vault, OpenAI API, Python, Least-Privilege RBAC
+
 [**Project: Cross-Platform IAM Federation**](https://medium.com/@marshutkaivan/iam-federation-lab-okta-and-keycloak-saml-2-0-sso-b9825ec32599)</br>
 **Platforms and Technology Used:** Okta, Keycloak, Docker, SAML 2.0, SSO
 
